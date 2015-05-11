@@ -19,6 +19,6 @@ public class X
     }  
     public static void badMethod() 
     {
-        throw new Error(); /* Line 22 */
+        throw new Error(); 
     } 
 }
